@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1619209873 source:c:\users\lord\desktop\nova pasta\skyliners\sk0.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"sk0.h"
+
+1619038495 c:\users\lord\desktop\nova pasta\skyliners\sk0.h
+
+1619207959 source:c:\users\lord\desktop\nova pasta\skyliners\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"sk0.h"
+
