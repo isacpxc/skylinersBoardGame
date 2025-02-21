@@ -6,7 +6,7 @@
 
 int main()
 {
-
+    srand(time(0));
     int letra=65,peca,contAte5=1,jogador_count=0,position_true=0,peca_true=0,jogada_true=0,fim=0;
     Pilha *tabuleiro;
     Pilha *tabuleiro_central;

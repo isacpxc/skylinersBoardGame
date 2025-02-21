@@ -15,3 +15,19 @@
 	<locale.h>
 	"sk0.h"
 
+1740150857 source:c:\users\lord\desktop\sk\skylinersboardgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"sk0.h"
+
+1740150411 c:\users\lord\desktop\sk\skylinersboardgame\sk0.h
+
+1740150411 source:c:\users\lord\desktop\sk\skylinersboardgame\sk0.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"sk0.h"
+
